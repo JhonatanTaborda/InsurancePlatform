@@ -76,7 +76,7 @@
         "projectName": "Proposal.Api",
         "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Api\\Proposal.Api.csproj",
         "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Api\\obj\\",
+        "outputPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -171,7 +171,7 @@
         "projectName": "Proposal.Application.Contracts",
         "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Application.Contracts\\Proposal.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Application.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -246,7 +246,7 @@
         "projectName": "Proposal.Application",
         "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Application\\Proposal.Application.csproj",
         "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Application\\obj\\",
+        "outputPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

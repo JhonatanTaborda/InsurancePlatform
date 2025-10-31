@@ -76,7 +76,7 @@
         "projectName": "Contract.Api",
         "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ContractService\\Contract.Api\\Contract.Api.csproj",
         "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ContractService\\Contract.Api\\obj\\",
+        "outputPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ContractService\\Contract.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -242,7 +242,7 @@
         "projectName": "Contract.Application",
         "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ContractService\\Contract.Application\\Contract.Application.csproj",
         "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ContractService\\Contract.Application\\obj\\",
+        "outputPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ContractService\\Contract.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -392,7 +392,7 @@
         "projectName": "Contract.Infrastructure",
         "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ContractService\\Contract.Infrastructure\\Contract.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ContractService\\Contract.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ContractService\\Contract.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -488,7 +488,7 @@
         "projectName": "Contract.Tests",
         "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ContractService\\Contract.Tests\\Contract.Tests.csproj",
         "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ContractService\\Contract.Tests\\obj\\",
+        "outputPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ContractService\\Contract.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
