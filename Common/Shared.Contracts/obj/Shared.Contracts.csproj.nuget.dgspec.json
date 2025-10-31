@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\Common\\Shared.Contracts\\Shared.Contracts.csproj": {}
+    "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\Common\\Shared.Contracts\\Shared.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\Common\\Shared.Contracts\\Shared.Contracts.csproj": {
+    "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\Common\\Shared.Contracts\\Shared.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\Common\\Shared.Contracts\\Shared.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\Common\\Shared.Contracts\\Shared.Contracts.csproj",
         "projectName": "Shared.Contracts",
-        "projectPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\Common\\Shared.Contracts\\Shared.Contracts.csproj",
+        "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\Common\\Shared.Contracts\\Shared.Contracts.csproj",
         "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\Common\\Shared.Contracts\\obj\\",
         "projectStyle": "PackageReference",

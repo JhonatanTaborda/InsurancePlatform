@@ -2932,11 +2932,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Infrastructure\\Proposal.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Infrastructure\\Proposal.Infrastructure.csproj",
       "projectName": "Proposal.Infrastructure",
-      "projectPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Infrastructure\\Proposal.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Infrastructure\\Proposal.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2957,8 +2957,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Application\\Proposal.Application.csproj": {
-              "projectPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Application\\Proposal.Application.csproj"
+            "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Application\\Proposal.Application.csproj": {
+              "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Application\\Proposal.Application.csproj"
             }
           }
         }

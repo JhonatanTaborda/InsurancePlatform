@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\Proposal.Domain.csproj": {}
+    "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\Proposal.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\Proposal.Domain.csproj": {
+    "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\Proposal.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\Proposal.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\Proposal.Domain.csproj",
         "projectName": "Proposal.Domain",
-        "projectPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\Proposal.Domain.csproj",
+        "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\Proposal.Domain.csproj",
         "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\obj\\",
         "projectStyle": "PackageReference",

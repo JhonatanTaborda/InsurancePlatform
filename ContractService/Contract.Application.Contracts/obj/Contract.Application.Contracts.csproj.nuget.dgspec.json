@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ContractService\\Contract.Application.Contracts\\Contract.Application.Contracts.csproj": {}
+    "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ContractService\\Contract.Application.Contracts\\Contract.Application.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ContractService\\Contract.Application.Contracts\\Contract.Application.Contracts.csproj": {
+    "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ContractService\\Contract.Application.Contracts\\Contract.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ContractService\\Contract.Application.Contracts\\Contract.Application.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ContractService\\Contract.Application.Contracts\\Contract.Application.Contracts.csproj",
         "projectName": "Contract.Application.Contracts",
-        "projectPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ContractService\\Contract.Application.Contracts\\Contract.Application.Contracts.csproj",
+        "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ContractService\\Contract.Application.Contracts\\Contract.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ContractService\\Contract.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",

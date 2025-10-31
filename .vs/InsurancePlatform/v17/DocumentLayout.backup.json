@@ -1,40 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{65BA1988-5D28-4793-95B7-2FB8741454C3}|ProposalService\\Proposal.Application\\Proposal.Application.csproj|c:\\users\\jhona\\source\\repos\\insuranceplatform\\proposalservice\\proposal.application\\handlers\\changestatushandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65BA1988-5D28-4793-95B7-2FB8741454C3}|ProposalService\\Proposal.Application\\Proposal.Application.csproj|solutionrelative:proposalservice\\proposal.application\\handlers\\changestatushandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99C81571-083C-45F1-B7AE-3254B2E30A38}|ContractService\\Contract.Api\\Contract.Api.csproj|c:\\users\\jhona\\source\\repos\\insuranceplatform\\contractservice\\contract.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99C81571-083C-45F1-B7AE-3254B2E30A38}|ContractService\\Contract.Api\\Contract.Api.csproj|solutionrelative:contractservice\\contract.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99C81571-083C-45F1-B7AE-3254B2E30A38}|ContractService\\Contract.Api\\Contract.Api.csproj|c:\\users\\jhona\\source\\repos\\insuranceplatform\\contractservice\\contract.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{99C81571-083C-45F1-B7AE-3254B2E30A38}|ContractService\\Contract.Api\\Contract.Api.csproj|solutionrelative:contractservice\\contract.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{913CA45C-2452-4A96-A431-C20DE963C5A4}|ProposalService\\Proposal.Api\\Proposal.Api.csproj|c:\\users\\jhona\\source\\repos\\insuranceplatform\\proposalservice\\proposal.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{913CA45C-2452-4A96-A431-C20DE963C5A4}|ProposalService\\Proposal.Api\\Proposal.Api.csproj|solutionrelative:proposalservice\\proposal.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{913CA45C-2452-4A96-A431-C20DE963C5A4}|ProposalService\\Proposal.Api\\Proposal.Api.csproj|c:\\users\\jhona\\source\\repos\\insuranceplatform\\proposalservice\\proposal.api\\controllers\\proposalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{913CA45C-2452-4A96-A431-C20DE963C5A4}|ProposalService\\Proposal.Api\\Proposal.Api.csproj|solutionrelative:proposalservice\\proposal.api\\controllers\\proposalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F3769AE-F994-48F4-89A5-B164A9AC0BE6}|ProposalService\\Proposal.Application.Contracts\\Proposal.Application.Contracts.csproj|c:\\users\\jhona\\source\\repos\\insuranceplatform\\proposalservice\\proposal.application.contracts\\commands\\changestatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F3769AE-F994-48F4-89A5-B164A9AC0BE6}|ProposalService\\Proposal.Application.Contracts\\Proposal.Application.Contracts.csproj|solutionrelative:proposalservice\\proposal.application.contracts\\commands\\changestatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2943D39E-925F-4A46-9976-C7C1B2C224B9}|ContractService\\Contract.Application\\Contract.Application.csproj|c:\\users\\jhona\\source\\repos\\insuranceplatform\\contractservice\\contract.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2943D39E-925F-4A46-9976-C7C1B2C224B9}|ContractService\\Contract.Application\\Contract.Application.csproj|solutionrelative:contractservice\\contract.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65BA1988-5D28-4793-95B7-2FB8741454C3}|ProposalService\\Proposal.Application\\Proposal.Application.csproj|c:\\users\\jhona\\source\\repos\\insuranceplatform\\proposalservice\\proposal.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65BA1988-5D28-4793-95B7-2FB8741454C3}|ProposalService\\Proposal.Application\\Proposal.Application.csproj|solutionrelative:proposalservice\\proposal.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -42,111 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ContractService\\Contract.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "ContractService\\Contract.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ContractService\\Contract.Api\\appsettings.json",
-              "RelativeToolTip": "ContractService\\Contract.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-31T20:43:43.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ContractService\\Contract.Api\\Program.cs",
-              "RelativeDocumentMoniker": "ContractService\\Contract.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ContractService\\Contract.Api\\Program.cs",
-              "RelativeToolTip": "ContractService\\Contract.Api\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T19:44:11.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Api\\Program.cs",
-              "RelativeDocumentMoniker": "ProposalService\\Proposal.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Api\\Program.cs",
-              "RelativeToolTip": "ProposalService\\Proposal.Api\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAswDQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T19:43:44.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ChangeStatusHandler.cs",
-              "DocumentMoniker": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Application\\Handlers\\ChangeStatusHandler.cs",
-              "RelativeDocumentMoniker": "ProposalService\\Proposal.Application\\Handlers\\ChangeStatusHandler.cs",
-              "ToolTip": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Application\\Handlers\\ChangeStatusHandler.cs",
-              "RelativeToolTip": "ProposalService\\Proposal.Application\\Handlers\\ChangeStatusHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T19:40:02.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ChangeStatusCommand.cs",
-              "DocumentMoniker": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Application.Contracts\\Commands\\ChangeStatusCommand.cs",
-              "RelativeDocumentMoniker": "ProposalService\\Proposal.Application.Contracts\\Commands\\ChangeStatusCommand.cs",
-              "ToolTip": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Application.Contracts\\Commands\\ChangeStatusCommand.cs",
-              "RelativeToolTip": "ProposalService\\Proposal.Application.Contracts\\Commands\\ChangeStatusCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T19:39:57.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProposalsController.cs",
-              "DocumentMoniker": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Api\\Controllers\\ProposalsController.cs",
-              "RelativeDocumentMoniker": "ProposalService\\Proposal.Api\\Controllers\\ProposalsController.cs",
-              "ToolTip": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Api\\Controllers\\ProposalsController.cs",
-              "RelativeToolTip": "ProposalService\\Proposal.Api\\Controllers\\ProposalsController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAuwC8AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T19:39:32.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ContractService\\Contract.Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "ContractService\\Contract.Application\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ContractService\\Contract.Application\\DependencyInjection.cs",
-              "RelativeToolTip": "ContractService\\Contract.Application\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:49:13.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "ProposalService\\Proposal.Application\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Application\\DependencyInjection.cs",
-              "RelativeToolTip": "ProposalService\\Proposal.Application\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:49:09.109Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

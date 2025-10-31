@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wlzVD4HIMw8=",
+  "dgSpecHash": "wgUrsXKY6NE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ContractService\\Contract.Application.Contracts\\Contract.Application.Contracts.csproj",
+  "projectFilePath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ContractService\\Contract.Application.Contracts\\Contract.Application.Contracts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jhona\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\jhona\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"

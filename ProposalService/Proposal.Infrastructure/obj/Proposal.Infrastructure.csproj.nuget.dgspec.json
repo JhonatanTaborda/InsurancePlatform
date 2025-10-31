@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Infrastructure\\Proposal.Infrastructure.csproj": {}
+    "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Infrastructure\\Proposal.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\Common\\Shared.Contracts\\Shared.Contracts.csproj": {
+    "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\Common\\Shared.Contracts\\Shared.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\Common\\Shared.Contracts\\Shared.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\Common\\Shared.Contracts\\Shared.Contracts.csproj",
         "projectName": "Shared.Contracts",
-        "projectPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\Common\\Shared.Contracts\\Shared.Contracts.csproj",
+        "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\Common\\Shared.Contracts\\Shared.Contracts.csproj",
         "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\Common\\Shared.Contracts\\obj\\",
         "projectStyle": "PackageReference",
@@ -69,12 +69,12 @@
         }
       }
     },
-    "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Application.Contracts\\Proposal.Application.Contracts.csproj": {
+    "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Application.Contracts\\Proposal.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Application.Contracts\\Proposal.Application.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Application.Contracts\\Proposal.Application.Contracts.csproj",
         "projectName": "Proposal.Application.Contracts",
-        "projectPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Application.Contracts\\Proposal.Application.Contracts.csproj",
+        "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Application.Contracts\\Proposal.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\Proposal.Domain.csproj": {
-                "projectPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\Proposal.Domain.csproj"
+              "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\Proposal.Domain.csproj": {
+                "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\Proposal.Domain.csproj"
               }
             }
           }
@@ -144,12 +144,12 @@
         }
       }
     },
-    "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Application\\Proposal.Application.csproj": {
+    "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Application\\Proposal.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Application\\Proposal.Application.csproj",
+        "projectUniqueName": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Application\\Proposal.Application.csproj",
         "projectName": "Proposal.Application",
-        "projectPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Application\\Proposal.Application.csproj",
+        "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Application\\Proposal.Application.csproj",
         "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Application\\obj\\",
         "projectStyle": "PackageReference",
@@ -172,14 +172,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\Common\\Shared.Contracts\\Shared.Contracts.csproj": {
-                "projectPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\Common\\Shared.Contracts\\Shared.Contracts.csproj"
+              "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\Common\\Shared.Contracts\\Shared.Contracts.csproj": {
+                "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\Common\\Shared.Contracts\\Shared.Contracts.csproj"
               },
-              "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Application.Contracts\\Proposal.Application.Contracts.csproj": {
-                "projectPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Application.Contracts\\Proposal.Application.Contracts.csproj"
+              "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Application.Contracts\\Proposal.Application.Contracts.csproj": {
+                "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Application.Contracts\\Proposal.Application.Contracts.csproj"
               },
-              "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\Proposal.Domain.csproj": {
-                "projectPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\Proposal.Domain.csproj"
+              "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\Proposal.Domain.csproj": {
+                "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\Proposal.Domain.csproj"
               }
             }
           }
@@ -229,12 +229,12 @@
         }
       }
     },
-    "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\Proposal.Domain.csproj": {
+    "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\Proposal.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\Proposal.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\Proposal.Domain.csproj",
         "projectName": "Proposal.Domain",
-        "projectPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\Proposal.Domain.csproj",
+        "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\Proposal.Domain.csproj",
         "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Domain\\obj\\",
         "projectStyle": "PackageReference",
@@ -294,14 +294,14 @@
         }
       }
     },
-    "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Infrastructure\\Proposal.Infrastructure.csproj": {
+    "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Infrastructure\\Proposal.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Infrastructure\\Proposal.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Infrastructure\\Proposal.Infrastructure.csproj",
         "projectName": "Proposal.Infrastructure",
-        "projectPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Infrastructure\\Proposal.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Infrastructure\\Proposal.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -322,8 +322,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Application\\Proposal.Application.csproj": {
-                "projectPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ProposalService\\Proposal.Application\\Proposal.Application.csproj"
+              "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Application\\Proposal.Application.csproj": {
+                "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ProposalService\\Proposal.Application\\Proposal.Application.csproj"
               }
             }
           }

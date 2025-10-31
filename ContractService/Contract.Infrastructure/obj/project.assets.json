@@ -4827,9 +4827,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ContractService\\Contract.Infrastructure\\Contract.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ContractService\\Contract.Infrastructure\\Contract.Infrastructure.csproj",
       "projectName": "Contract.Infrastructure",
-      "projectPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ContractService\\Contract.Infrastructure\\Contract.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ContractService\\Contract.Infrastructure\\Contract.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ContractService\\Contract.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
@@ -4852,11 +4852,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\Common\\Shared.Contracts\\Shared.Contracts.csproj": {
-              "projectPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\Common\\Shared.Contracts\\Shared.Contracts.csproj"
+            "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\Common\\Shared.Contracts\\Shared.Contracts.csproj": {
+              "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\Common\\Shared.Contracts\\Shared.Contracts.csproj"
             },
-            "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ContractService\\Contract.Application\\Contract.Application.csproj": {
-              "projectPath": "C:\\Users\\jhona\\source\\repos\\InsurancePlatform\\ContractService\\Contract.Application\\Contract.Application.csproj"
+            "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ContractService\\Contract.Application\\Contract.Application.csproj": {
+              "projectPath": "C:\\Users\\jhona\\Source\\Repos\\InsurancePlatform\\ContractService\\Contract.Application\\Contract.Application.csproj"
             }
           }
         }
