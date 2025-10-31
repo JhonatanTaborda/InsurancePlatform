@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Contract.Api.Controllers.ContractsController",
+    "Method": "Hire",
+    "RelativePath": "api/contracts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Contract.Api.Controllers.ContractsController\u002BRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Contract.Api.Controllers.ContractsController",
+    "Method": "Get",
+    "RelativePath": "api/contracts/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

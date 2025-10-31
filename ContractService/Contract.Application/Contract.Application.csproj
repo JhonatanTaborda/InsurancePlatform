@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <PackageReference Include="MassTransit" Version="8.5.5" />
+    <PackageReference Include="MediatR" Version="13.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Contract.Domain\Contract.Domain.csproj" />
+    <ProjectReference Include="..\..\Common\Shared.Contracts\Shared.Contracts.csproj" />
+    <ProjectReference Include="..\Contract.Application.Contracts\Contract.Application.Contracts.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

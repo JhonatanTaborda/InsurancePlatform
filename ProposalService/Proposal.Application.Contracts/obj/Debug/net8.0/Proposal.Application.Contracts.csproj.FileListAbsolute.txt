@@ -1,0 +1,15 @@
+C:\Users\jhona\source\repos\InsurancePlatform\ProposalService\Proposal.Application.Contracts\bin\Debug\net8.0\Proposal.Application.Contracts.deps.json
+C:\Users\jhona\source\repos\InsurancePlatform\ProposalService\Proposal.Application.Contracts\bin\Debug\net8.0\Proposal.Application.Contracts.dll
+C:\Users\jhona\source\repos\InsurancePlatform\ProposalService\Proposal.Application.Contracts\bin\Debug\net8.0\Proposal.Application.Contracts.pdb
+C:\Users\jhona\source\repos\InsurancePlatform\ProposalService\Proposal.Application.Contracts\bin\Debug\net8.0\Proposal.Domain.dll
+C:\Users\jhona\source\repos\InsurancePlatform\ProposalService\Proposal.Application.Contracts\bin\Debug\net8.0\Proposal.Domain.pdb
+C:\Users\jhona\source\repos\InsurancePlatform\ProposalService\Proposal.Application.Contracts\obj\Debug\net8.0\Proposal.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\jhona\source\repos\InsurancePlatform\ProposalService\Proposal.Application.Contracts\obj\Debug\net8.0\Proposal.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\source\repos\InsurancePlatform\ProposalService\Proposal.Application.Contracts\obj\Debug\net8.0\Proposal.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\jhona\source\repos\InsurancePlatform\ProposalService\Proposal.Application.Contracts\obj\Debug\net8.0\Proposal.Application.Contracts.AssemblyInfo.cs
+C:\Users\jhona\source\repos\InsurancePlatform\ProposalService\Proposal.Application.Contracts\obj\Debug\net8.0\Proposal.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\jhona\source\repos\InsurancePlatform\ProposalService\Proposal.Application.Contracts\obj\Debug\net8.0\Proposal.EFB0877E.Up2Date
+C:\Users\jhona\source\repos\InsurancePlatform\ProposalService\Proposal.Application.Contracts\obj\Debug\net8.0\Proposal.Application.Contracts.dll
+C:\Users\jhona\source\repos\InsurancePlatform\ProposalService\Proposal.Application.Contracts\obj\Debug\net8.0\refint\Proposal.Application.Contracts.dll
+C:\Users\jhona\source\repos\InsurancePlatform\ProposalService\Proposal.Application.Contracts\obj\Debug\net8.0\Proposal.Application.Contracts.pdb
+C:\Users\jhona\source\repos\InsurancePlatform\ProposalService\Proposal.Application.Contracts\obj\Debug\net8.0\ref\Proposal.Application.Contracts.dll

@@ -1,0 +1,12 @@
+C:\Users\jhona\source\repos\InsurancePlatform\ContractService\Contract.Application.Contracts\bin\Debug\net9.0\Contract.Application.Contracts.deps.json
+C:\Users\jhona\source\repos\InsurancePlatform\ContractService\Contract.Application.Contracts\bin\Debug\net9.0\Contract.Application.Contracts.dll
+C:\Users\jhona\source\repos\InsurancePlatform\ContractService\Contract.Application.Contracts\bin\Debug\net9.0\Contract.Application.Contracts.pdb
+C:\Users\jhona\source\repos\InsurancePlatform\ContractService\Contract.Application.Contracts\obj\Debug\net9.0\Contract.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\jhona\source\repos\InsurancePlatform\ContractService\Contract.Application.Contracts\obj\Debug\net9.0\Contract.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\source\repos\InsurancePlatform\ContractService\Contract.Application.Contracts\obj\Debug\net9.0\Contract.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\jhona\source\repos\InsurancePlatform\ContractService\Contract.Application.Contracts\obj\Debug\net9.0\Contract.Application.Contracts.AssemblyInfo.cs
+C:\Users\jhona\source\repos\InsurancePlatform\ContractService\Contract.Application.Contracts\obj\Debug\net9.0\Contract.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\jhona\source\repos\InsurancePlatform\ContractService\Contract.Application.Contracts\obj\Debug\net9.0\Contract.Application.Contracts.dll
+C:\Users\jhona\source\repos\InsurancePlatform\ContractService\Contract.Application.Contracts\obj\Debug\net9.0\refint\Contract.Application.Contracts.dll
+C:\Users\jhona\source\repos\InsurancePlatform\ContractService\Contract.Application.Contracts\obj\Debug\net9.0\Contract.Application.Contracts.pdb
+C:\Users\jhona\source\repos\InsurancePlatform\ContractService\Contract.Application.Contracts\obj\Debug\net9.0\ref\Contract.Application.Contracts.dll
